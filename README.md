@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Berlin</h1>
-<h3 align="center">A passionate developer based in Chennai, Indaia </h3>
+<h3 align="center">A passionate developer based in Chennai, India </h3>
 
 # 💫 About Me:
 🔭 I’m currently working on transaction analytics using clickHouse db and portfolio<br><br>🌱 I’m currently learning Angular , TypeScript, DSA<br><br>💬 Ask me about NodeJS, Typescript, Postgres, Redis, Firebase<br><br>😇 Know more about me in https://berlin-portfolio.web.app<br><br>🤝 Can grow together
